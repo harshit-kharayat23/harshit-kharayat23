@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Harshit Kharayat</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
-<img align "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align "right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://mir-s3-cdn-cf.behance.net/projects/max_808/6dc5de68097599.Y3JvcCwzNzI5LDI5MTcsNjM2LDA.jpg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-kharayat23&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-kharayat23" /> </p>
 
