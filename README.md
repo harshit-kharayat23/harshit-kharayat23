@@ -86,7 +86,3 @@
 
 ---
 
-## 📈 Visitor Count
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=harshit-kharayat23&icon=2&color=12" />
-</p>
