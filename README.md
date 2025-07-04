@@ -1,72 +1,92 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
-
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+<h1 align="center">Hi 👋, I'm Harshit Kharayat</h1>
+<h3 align="center">🚀 Full Stack Developer | ML Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/heyitzharshit/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://x.com/23Harshitkk">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/heyitzharshit/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=Building+Scalable+Full-Stack+Apps;Passionate+about+ML+%26+Open+Source;React.js+%7C+Node.js+%7C+Python+%7C+AI" alt="Typing SVG" />
 </p>
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+## 🚀 About Me
+- 🌱 Currently learning **TypeScript & AI APIs**
+- 🛠️ Building full-stack apps with **React.js, Node.js, MongoDB**
+- 🔐 Focused on secure auth, real-time features & API integrations
+- 🎯 Goal: Build intelligent systems that improve lives
+- 📫 Reach me at: `harshitkharyat224@gmail.com`
 
-yaml
-name: Harshit Kharayat
-located_in: Dehradun, India
-current_job: Full Stack Developer
-education:
-  [
-    "Bachelor's in Computer Science and Engineering",
-  ]
-fields_of_interests:
-  [
-    "Full Stack Development",
-    "Generative AI",
-    "Machine Learning",
-    "DevOps",
-  ]
-  
-currently_learning: ["Docker and Next.js"]
-2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Art", "Gym"]
+---
 
-  
----  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+## 🌐 Connect with Me  
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+  <a href="https://www.linkedin.com/in/heyitzharshit/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/harshit-kharayat23" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/heyitzharshit/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/23Harshitkk" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+
+---
+
+## 💼 Featured Projects
+
+### 🗨️ [**Chit-Chat**](https://chit-chat-qyxv.onrender.com)
+> MongoDB, Express.js, React.js, Node.js, Socket.io  
+🔹 Developed a responsive real-time chat app with private/group messaging  
+🔹 Implemented secure JWT auth, theme toggle, media sharing & live status  
+🔹 🔗 [Live App ↗](https://chit-chat-qyxv.onrender.com)
+
+---
+
+### 🧬 BarkNet  
+> MongoDB, Express.js, React.js, Node.js, Python (Flask), TensorFlow  
+🔹 Built a dog breed classifier with EfficientNetB1 (85% accuracy)  
+🔹 Integrated Flask ML inference with React UI using REST APIs  
+🔹 Real-time predictions from uploaded images with health tips
+
+---
+
+### 🎓 Study Notion  
+> MongoDB, Express.js, React.js, Node.js, Razorpay, Cloudinary  
+🔹 EdTech platform for students & instructors with secure role-based access  
+🔹 Features: Course uploads, video streaming, payments, OTP verification  
+🔹 Clean, intuitive dashboard for managing courses & progress
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-kharayat23&show_icons=true&theme=radical" alt="stats" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=harshit-kharayat23&theme=radical" alt="streak" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-kharayat23&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+## 📈 Visitor Count
+<p align="left">
+  <img src="https://visitcount.itsvg.in/api?id=harshit-kharayat23&icon=2&color=12" />
 </p>
